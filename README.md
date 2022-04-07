@@ -1,1 +1,5 @@
-# 3D_models_shop_react_final
+# Не забудь поставить звезду
+
+## npm run dev - запуск сервера
+
+## npm start - запуск клиента
